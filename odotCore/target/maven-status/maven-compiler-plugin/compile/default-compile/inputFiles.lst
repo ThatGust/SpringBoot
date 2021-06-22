@@ -1,0 +1,11 @@
+D:\Eclipse Workplace\SpringBoot\odotCore\src\main\java\com\makotojava\learn\odot\model\Item.java
+D:\Eclipse Workplace\SpringBoot\odotCore\src\main\java\com\makotojava\learn\odot\service\ItemService.java
+D:\Eclipse Workplace\SpringBoot\odotCore\src\main\java\com\makotojava\learn\odot\config\DatabaseConfiguration.java
+D:\Eclipse Workplace\SpringBoot\odotCore\src\main\java\com\makotojava\learn\odot\dao\CategoryDao.java
+D:\Eclipse Workplace\SpringBoot\odotCore\src\main\java\com\makotojava\learn\odot\exception\EntityPersistenceException.java
+D:\Eclipse Workplace\SpringBoot\odotCore\src\main\java\com\makotojava\learn\odot\exception\ServiceException.java
+D:\Eclipse Workplace\SpringBoot\odotCore\src\main\java\com\makotojava\learn\odot\model\AbstractEntity.java
+D:\Eclipse Workplace\SpringBoot\odotCore\src\main\java\com\makotojava\learn\odot\model\Category.java
+D:\Eclipse Workplace\SpringBoot\odotCore\src\main\java\com\makotojava\learn\odot\service\CategoryService.java
+D:\Eclipse Workplace\SpringBoot\odotCore\src\main\java\com\makotojava\learn\odot\dao\ItemDao.java
+D:\Eclipse Workplace\SpringBoot\odotCore\src\main\java\com\makotojava\learn\odot\config\AbstractApplicationConfiguration.java
